@@ -1,0 +1,18 @@
+<!-- Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See full license at the bottom of this file. -->
+
+<!--
+    This file provides the HTML for the find-and-replace view.
+-->
+
+<sc-navigation-header></sc-navigation-header>
+
+<div class="ms-navigation__content">
+    <div class="ms-font-xl ms-navigation__content__title">Import data</div>
+    <label class="ms-Label">Get data</label>
+
+<div class="ms-navigation__content">
+    <sc-button [buttonlabel]="'Databases'" (click)='get("Databases")'></sc-button>
+    <sc-button [buttonlabel]="'Get Supplier Prices'" (click)='get("SupplierItems")'></sc-button>
+</div>
+
+<sc-brand-footer></sc-brand-footer>

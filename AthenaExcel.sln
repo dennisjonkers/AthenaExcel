@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AthenaExcel", "AthenaExcel\AthenaExcel.csproj", "{677FB915-D19D-4151-927C-23FDB6DE9BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AthenaExcelWeb", "AthenaExcelWeb\AthenaExcelWeb.csproj", "{942654B0-CA3E-4112-BD2A-648048FE5E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677FB915-D19D-4151-927C-23FDB6DE9BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677FB915-D19D-4151-927C-23FDB6DE9BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677FB915-D19D-4151-927C-23FDB6DE9BBF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{677FB915-D19D-4151-927C-23FDB6DE9BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677FB915-D19D-4151-927C-23FDB6DE9BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677FB915-D19D-4151-927C-23FDB6DE9BBF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{942654B0-CA3E-4112-BD2A-648048FE5E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942654B0-CA3E-4112-BD2A-648048FE5E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942654B0-CA3E-4112-BD2A-648048FE5E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942654B0-CA3E-4112-BD2A-648048FE5E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
